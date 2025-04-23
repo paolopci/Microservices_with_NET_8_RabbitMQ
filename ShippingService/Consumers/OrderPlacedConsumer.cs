@@ -8,7 +8,7 @@ namespace ShippingService.Consumers
     {
         public Task Consume(ConsumeContext<OrderPlaced> context)
         {
-            Console.WriteLine($"Order received for shipping : {context.Message.OrderId} quantity: {context.Message.Quantity}");
+            Console.WriteLine($"Order received for shipping : {context.Message.OrderId} and quantity: {context.Message.Quantity}");
             return Task.CompletedTask;
         }
     }
