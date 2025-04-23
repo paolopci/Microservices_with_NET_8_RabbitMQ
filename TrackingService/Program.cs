@@ -1,5 +1,5 @@
 using MassTransit;
-using ShippingService.Consumers;
+using TrackingService.Consumers;
 
 
 var builder = WebApplication.CreateBuilder(args);

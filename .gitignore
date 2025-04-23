@@ -407,3 +407,6 @@ FodyWeavers.xsd
 # Tutto il contenuto delle cartelle bin/ e obj/
 OrderService/bin/
 OrderService/obj/
+
+# Ignora tutti i file DLL
+*.dll
