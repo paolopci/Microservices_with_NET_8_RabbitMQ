@@ -398,3 +398,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# ——————————————————————————————————————
+# Ignora gli output di build per OrderService
+# ——————————————————————————————————————
+
+# Tutto il contenuto delle cartelle bin/ e obj/
+OrderService/bin/
+OrderService/obj/

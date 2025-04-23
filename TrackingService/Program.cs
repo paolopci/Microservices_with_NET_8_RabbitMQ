@@ -11,32 +11,22 @@ builder.Services.AddMassTransit(x =>
     x.UsingRabbitMq((context, cfg) =>
     {
         cfg.Host("rabbitmq://localhost");
-        // crea (o si collega a) una coda nominata order-placed sul broker.
-        //cfg.ReceiveEndpoint("order-placed", e =>
-        //{
-        //    // Qui viene registrato il consumer che si occupa di gestire i messaggi di tipo OrderPlaced.
-        //    e.Consumer<OrderPlacedConsumer>();
-        //});
-
-        cfg.ReceiveEndpoint("shipping-order-queue", e =>
+        cfg.ReceiveEndpoint("tracking-order-queue", e =>
         {
-            // Qui viene registrato il consumer che si occupa di gestire i messaggi di tipo OrderPlaced.
+            
             e.Consumer<OrderPlacedConsumer>(context);
-
 
             e.Bind("order-placed-exchange", e =>
             {
-                e.RoutingKey= "order.shipping";
+                e.RoutingKey = "order.tracking";
                 e.ExchangeType = "direct";
             });
-
         });
     });
 });
 
 
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

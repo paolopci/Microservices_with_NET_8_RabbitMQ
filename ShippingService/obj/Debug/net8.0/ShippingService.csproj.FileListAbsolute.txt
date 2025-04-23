@@ -41,3 +41,4 @@ D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\refint\S
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ShippingService.pdb
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ShippingService.genruntimeconfig.cache
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ref\ShippingService.dll
+D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ShippingService.sourcelink.json

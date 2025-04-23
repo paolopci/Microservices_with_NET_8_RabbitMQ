@@ -9,3 +9,4 @@ D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\SharedMes
 D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\refint\SharedMessages.dll
 D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\SharedMessages.pdb
 D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\ref\SharedMessages.dll
+D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\SharedMessages.sourcelink.json
