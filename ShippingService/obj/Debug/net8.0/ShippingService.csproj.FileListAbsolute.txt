@@ -24,6 +24,7 @@ D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\Shipping
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ShippingService.csproj.CoreCompileInputs.cache
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ShippingService.MvcApplicationPartsAssemblyInfo.cs
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ShippingService.MvcApplicationPartsAssemblyInfo.cache
+D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ShippingService.sourcelink.json
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\scopedcss\bundle\ShippingService.styles.css
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\staticwebassets.build.json
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\staticwebassets.development.json
@@ -41,4 +42,3 @@ D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\refint\S
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ShippingService.pdb
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ShippingService.genruntimeconfig.cache
 D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ref\ShippingService.dll
-D:\test\RabbitMQ\OrderShippingSolution\ShippingService\obj\Debug\net8.0\ShippingService.sourcelink.json

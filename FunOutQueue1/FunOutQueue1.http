@@ -1,0 +1,6 @@
+@FunOutQueue1_HostAddress = http://localhost:5271
+
+GET {{FunOutQueue1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

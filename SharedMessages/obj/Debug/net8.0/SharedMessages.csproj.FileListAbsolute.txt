@@ -5,8 +5,8 @@ D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\SharedMes
 D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\SharedMessages.AssemblyInfoInputs.cache
 D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\SharedMessages.AssemblyInfo.cs
 D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\SharedMessages.csproj.CoreCompileInputs.cache
+D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\SharedMessages.sourcelink.json
 D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\SharedMessages.dll
 D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\refint\SharedMessages.dll
 D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\SharedMessages.pdb
 D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\ref\SharedMessages.dll
-D:\test\RabbitMQ\OrderShippingSolution\SharedMessages\obj\Debug\net8.0\SharedMessages.sourcelink.json
