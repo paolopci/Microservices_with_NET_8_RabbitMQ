@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunOutQueue2", "FunOutQueue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopicService", "TopicService\TopicService.csproj", "{6963A9EC-6B02-4DAA-85FF-D6ED6B5493ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopicOutQueue1", "TopicOutQueue1\TopicOutQueue1.csproj", "{79F8585D-C746-466B-BB23-C7691C4892B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopicPOutQueue2", "TopicPOutQueue2\TopicPOutQueue2.csproj", "{1E91A534-F2B0-4AE5-9A7C-7260F957C1D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{6963A9EC-6B02-4DAA-85FF-D6ED6B5493ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6963A9EC-6B02-4DAA-85FF-D6ED6B5493ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6963A9EC-6B02-4DAA-85FF-D6ED6B5493ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F8585D-C746-466B-BB23-C7691C4892B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F8585D-C746-466B-BB23-C7691C4892B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F8585D-C746-466B-BB23-C7691C4892B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F8585D-C746-466B-BB23-C7691C4892B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E91A534-F2B0-4AE5-9A7C-7260F957C1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E91A534-F2B0-4AE5-9A7C-7260F957C1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E91A534-F2B0-4AE5-9A7C-7260F957C1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E91A534-F2B0-4AE5-9A7C-7260F957C1D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
