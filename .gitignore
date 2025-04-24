@@ -410,3 +410,21 @@ OrderService/obj/
 
 # Ignora tutti i file DLL
 *.dll
+apphost.exe
+SharedMessages.AssemblyInfo.cs
+SharedMessages.AssemblyInfoInputs.cache
+ShippingService.AssemblyInfo.cs
+ShippingService.AssemblyInfoInputs.cache
+ShippingService.csproj.AssemblyReference.cache
+ShippingService.pdb
+
+# Cartelle di build: ignoro bin e obj in qualunque livello
+**/bin/
+**/obj/
+
+# Visual Studio / .NET build artifacts
+**/bin/
+**/obj/
+
+# Cache di AssemblyInfo inputs
+**/*.AssemblyInfoInputs.cache
