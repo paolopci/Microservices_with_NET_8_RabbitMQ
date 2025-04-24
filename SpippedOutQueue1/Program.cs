@@ -25,11 +25,14 @@ builder.Services.AddMassTransit(x =>
                 e.ExchangeType = "direct";
             });
 
+            // provo a spedire il messaggio per 3 volte (con intervallo di 5 secondi tra un tentativo e altro)
+            // e poi lo metto in una coda di errore
+            e.UseMessageRetry(r=>r.Interval(3,TimeSpan.FromSeconds(5)));
         });
     });
 });
 
-
+ 
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
