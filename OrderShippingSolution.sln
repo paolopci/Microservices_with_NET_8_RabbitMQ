@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunOutQueue1", "FunOutQueue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunOutQueue2", "FunOutQueue2\FunOutQueue2.csproj", "{5C4E2EDE-066E-48DE-9F73-EED068AFE8BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopicService", "TopicService\TopicService.csproj", "{6963A9EC-6B02-4DAA-85FF-D6ED6B5493ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5C4E2EDE-066E-48DE-9F73-EED068AFE8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C4E2EDE-066E-48DE-9F73-EED068AFE8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C4E2EDE-066E-48DE-9F73-EED068AFE8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6963A9EC-6B02-4DAA-85FF-D6ED6B5493ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6963A9EC-6B02-4DAA-85FF-D6ED6B5493ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6963A9EC-6B02-4DAA-85FF-D6ED6B5493ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6963A9EC-6B02-4DAA-85FF-D6ED6B5493ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
